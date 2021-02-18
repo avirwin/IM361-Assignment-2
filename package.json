@@ -20,8 +20,8 @@
   "homepage": "https://github.com/avirwin/IM361-Assignment-2#readme",
   "dependencies": {
     "express": "^4.17.1"
-  }
-}
-"engines": {
+  },
+  "engines": {
     "node": "12.11.1"
  }
+}
